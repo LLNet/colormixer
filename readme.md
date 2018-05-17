@@ -1,3 +1,7 @@
+# Thanks to Craft CMS
+
+This repo is only for make support for composer.
+
 ![Color Mixer for Craft CMS](resources/banner.gif)
 
 # Color Mixer
